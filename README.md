@@ -57,3 +57,8 @@ After the initial set-up,
     ```
 
 - Make a pull request on github
+
+## Technologies and Concepts Implemented
+- Versioning
+
+
