@@ -60,9 +60,6 @@ After the initial set-up,
 
 ## Technologies and Concepts Implemented
 - Implemented Technologies and Practices
-- Turbo for Optimized Builds 
-- Monorepo Structure 
-- SSR 
 - API Versioning ✅
 - PWA ✅
 - Router v6 ✅
