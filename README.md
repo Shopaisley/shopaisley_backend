@@ -3,7 +3,8 @@
 
 An e-commerce platform.
 
-
+## Entity-Relationship Diagram
+![image](https://github.com/Shopiley/shopaisley_backend/assets/82163647/97b2161e-1f36-41da-abd1-dcb160a4ab56)
 
 
 ## Run Locally
